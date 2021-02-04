@@ -4,12 +4,13 @@
 - 🤔 I’m looking for help with ...
 -->
 
+- ✨ I’m currently working on Deep Learning.
 - 🌱 I’m currently learning **Tensorflow**
 - 🎥 I shoot tutorial videos(see Playlists section) [YouTube](https://youtu.be/zcR1mnXPtN0)
 - 📝 I regularly write articles on [https://medium.com/@ugurcan.soruc](https://medium.com/@ugurcan.soruc)
-- 💬 Ask me about **Keras**
+- 💬 Ask me about **C, C#, ASP.Net Core, MVC, EntityFramework, Keras**
 - 📫 How to reach me: **ugurcan.soruc@gmail.com**
-
+- For more info; [My Personal Website](https://ugurcansoruc.github.io)
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugurcansoruc&layout=compact&hide=html" alt="ugurcansoruc" />
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ugurcansoruc&show_icons=true" alt="ugurcansoruc" />
