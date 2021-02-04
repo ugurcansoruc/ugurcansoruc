@@ -4,11 +4,11 @@
 - 🤔 I’m looking for help with ...
 -->
 
-- ✨ I’m currently working on Deep Learning.
+- ✨ I’m currently working on **Deep Learning**.
 - 🌱 I’m currently learning **Tensorflow**
 - 🎥 I shoot tutorial videos(see Playlists section) [YouTube](https://youtu.be/zcR1mnXPtN0)
 - 📝 I regularly write articles on [https://medium.com/@ugurcan.soruc](https://medium.com/@ugurcan.soruc)
-- 💬 Ask me about **C, C#, ASP.Net Core, MVC, EntityFramework, Keras**
+- 💬 Ask me about **C, C#, ASP.Net Core, MVC, Entity Framework, Keras**
 - 📫 How to reach me: **ugurcan.soruc@gmail.com**
 - For more info; [My Personal Website](https://ugurcansoruc.github.io)
 <p>
